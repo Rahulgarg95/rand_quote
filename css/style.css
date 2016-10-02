@@ -1,0 +1,26 @@
+body{
+  margin-bottom: 50px;
+}
+
+.header{
+  color: white;
+  font-family: 'Josefin Slab', serif;
+}
+
+.content{
+  background-color: #ECEFF1;
+  z-index: 2;
+}
+
+blockquote{
+  padding-top: 40px;
+}
+
+.quote{
+  font-size: 25px;
+  font-family: 'Yellowtail', cursive;
+}
+
+.icon-size{
+  font-size: 25px;
+}
